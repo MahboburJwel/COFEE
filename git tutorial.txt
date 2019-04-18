@@ -1,0 +1,11 @@
+git init-> for initialized a repository
+git config --global user.name "Mahbobur Jwel" -> For Name add
+git config --global user.email "mahboburjwel@gmail.com" -> for email add
+git config --list -> for name, email and others list checking
+git status -> for know running status
+git add cold.txt -> for add cold.txt file in git
+git add hot.txt -> for add hot.txt file in git
+git add --all -> for add all file from this folder in git
+git add .-> same work in the abobe
+clear -> screen clear
+
