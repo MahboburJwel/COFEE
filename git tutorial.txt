@@ -9,3 +9,7 @@ git add --all -> for add all file from this folder in git
 git add .-> same work in the abobe
 clear -> screen clear
 
+
+============= for commit option ====================
+git commit -> for commit, that will create a new terminal
+ 
