@@ -12,4 +12,19 @@ clear -> screen clear
 
 ============= for commit option ====================
 git commit -> for commit, that will create a new terminal
+i -> type i then will write a massege like 
+1 file added then press from keyboard
+esc
+:x -> will have to type then enter press
+
+//and finally that will 1 file commited
+
+//now shortcut, now create a file in folder, name is chocolate.txt//
+git commit -m "write your status massege"
+
+git log -> for show commited log massege with status'
+git log --oneline -> for show commited log massege with status in one line
+
+
+ 
  
